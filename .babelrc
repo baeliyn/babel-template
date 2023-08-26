@@ -1,0 +1,13 @@
+{
+    "presets": ["@babel/preset-env"]
+}
+
+/*
+
+!!!To use it with CMD
+
+.\node_modules\.bin\babel src -d lib
+
+it will not compile anything except js
+
+*/
